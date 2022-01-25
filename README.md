@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TadashiKazuo
+- 👀 I’m interested in coding Discord Bot
+- 🌱 I’m currently learning Node.js, Java, Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
