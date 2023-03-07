@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tadashikazuo" alt="tadashikazuo" /></a> </p>
 
-- 🔭 I’m currently working on [Zero Developer](https://dsc.gg/zerodev)
+- 🔭 I’m currently working on [Zero's Community](https://dsc.gg/zero-community)
 
 - 🌱 I’m currently learning **some hacking courses!**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kudo.andrew.2005@gmail.com**
 
-- 📄 Know about my experiences [https://andrewnoob.tk](https://andrewnoob.tk)
+- 📄 Know about my experiences in my [Discord](https://discord.com/users/878821057748926534)
 
 - ⚡ Fun fact **Nothing fun now!**
 
