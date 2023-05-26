@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zero</h1>
 <h3 align="center">I am a beginner hacker, also I am a multi-languages developer, I use JavaScript, Python, C/C++, ... to code something!</h3>
-<p align="center"><br> <a href="https://github.com/TadashiKazuo"> <img src="https://lanyard.cnrad.dev/api/878821057748926534?idleMessage=Learning%20hacking!"/> </a> </p>
+<p align="center"><br> <a href="https://github.com/TadashiKazuo"> <img src="https://lanyard.cnrad.dev/api/878821057748926534"/> </a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadashikazuo&label=Profile%20views&color=0e75b6&style=flat" alt="tadashikazuo" /> </p>
 
