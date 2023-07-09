@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tadashikazuo" alt="tadashikazuo" /></a> </p>
 
-- 🔭 I’m currently working on [Zero's Community](https://dsc.gg/zero-community)
+- 🔭 I’m currently working on [Zero's Community](https://discord.gg/aFsdZRWWdf)
 
 - 🌱 I’m currently learning **some hacking courses!**
 
