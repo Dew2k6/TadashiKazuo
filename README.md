@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zero</h1>
+<h1 align="center">Hi 👋, I'm Akimitsu</h1>
 <h3 align="center">I am a beginner hacker, also I am a multi-languages developer, I use JavaScript, Python, C/C++, ... to code something!</h3>
 <p align="center"><br> <a href="https://github.com/TadashiKazuo"> <img src="https://lanyard.cnrad.dev/api/878821057748926534?idleMessage=Learning%20hacking!"/> </a> </p>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tadashikazuo" alt="tadashikazuo" /></a> </p>
 
-- 🔭 I’m currently working on [Zero's Community](https://dsc.gg/zero-community)
+- 🔭 I’m currently working on [Chilling Zone](https://discord.gg/aFsdZRWWdf)
 
 - 🌱 I’m currently learning **some hacking courses!**
 
